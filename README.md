@@ -2,8 +2,7 @@
 
 I am a web developer, looking forward to learning anything about web and development, want to be Full-stack developer.
 
-</div>  
-
+</div>
 
 - 🔭 I’m currently working on [frontend-mentor-challenges](https://github.com/abdulazizAbabutain/frontend-mentor-challenges)
 
@@ -65,26 +64,13 @@ I am a web developer, looking forward to learning anything about web and develop
 <a href="https://dev.to/abdulaziz_ababutain" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulazizAbabutain&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-<br/>
-
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -94,8 +80,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abdulazizAbabutain&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/Azizx98" target="_blank" style="display: inline-block;">
@@ -108,7 +93,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>
 
 <br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
