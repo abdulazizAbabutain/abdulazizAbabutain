@@ -8,8 +8,6 @@ I am a web developer, looking forward to learning anything about web and develop
 
 - 🌱 I’m currently learning ASP.net and react
 
-- ⚡ Fun fact: I use tabs ove
-
 <br/>
 
 ## My Skill Set
